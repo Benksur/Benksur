@@ -25,7 +25,7 @@ studying <strong>electrical and computer engineering</strong> at <a href="https:
 
 </p>
 
-<h3><em>📬 reach me</em></h3>
+<h3>📬<em> reach me</em></h3>
 <p>
   <a href="mailto:tyjbehnke@gmail.com">
     <img src="https://img.shields.io/badge/Email-tyjbehnke@gmail.com-informational?style=flat&logo=gmail&color=D14836" alt="Gmail">
