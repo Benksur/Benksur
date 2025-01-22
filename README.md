@@ -1,4 +1,5 @@
-## Hi there 👋
+## hi, i'm ty
+ reach me at:[email](mailto:tyjbehnke@gmail.com) :)
 
 <!--
 **Benksur/Benksur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
