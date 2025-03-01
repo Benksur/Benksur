@@ -5,7 +5,7 @@ studying <strong>electrical and computer engineering</strong> at <a href="https:
 </em></p>
 
 <h3><em>about me</em></h3>
-<p>🌱 in my final year of study</br>🔭 currently working on my thesis developing the firmware and a custom operating system for a 4G phone</p>
+<p>🌱 in my final year of study</br>🔭 currently working on my thesis developing the firmware for a 4G phone</p>
 
 <h3><em>things i code with</em></h3>
 
