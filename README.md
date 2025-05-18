@@ -5,17 +5,21 @@
 
 > _studying **electrical and computer engineering** at [uq](https://www.uq.edu.au/), specializing in embedded systems._
 
----
+### about me
+- 22 years old 
+- final year ECE student  
+- developing an operating system for a 4G phone (thesis)  
+- product developer intern @ **Focus Professional Services**
 
-### ✨ about me
 
-- 🌱 final year ECE student  
-- 🔭 developing an operating system for a 4G phone (thesis)  
-- 💼 product developer intern @ **Focus Professional Services**
 
----
+### currently learning
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=336791" alt="PostgreSQL" />
+</p>
 
-### 🛠 things i code with
+### things i code with
 
 <p align="left">
   <img src="https://img.shields.io/badge/Zephyr-informational?style=for-the-badge&logo=zephyrproject&logoColor=white&color=761EDB" alt="Zephyr" />
@@ -34,9 +38,8 @@
   <img src="https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=next.js&logoColor=white&color=000000" alt="Next.js" />
 </p>
 
----
 
-### 📬 reach me
+### reach me
 
 <p>
   <a href="mailto:tyjbehnke@gmail.com">
@@ -45,3 +48,8 @@
 </p>
 
 ---
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benksur&layout=compact&hide_title=1&card_width=300%22%20alt=%22Top%20language%20used%20in%20my%20repos" />
+  <br />
+</div>
