@@ -11,7 +11,7 @@
 - developing an operating system for a 4G phone (thesis)  
 - product developer intern @ **Focus Professional Services**
 
-
+ 
 
 ### currently learning
 <p align="left">
