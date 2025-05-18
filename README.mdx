@@ -1,33 +1,70 @@
-<h2> hi, i'm ty <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3QwZ2ZqdWdrYnM0bGZnY2plajFxZ291cTh4Y2podmEyY3RsN2N1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5A4gz2QktOjs3nYq1U/giphy.gif" width="40"></h2>
+import { useEffect, useState } from 'react'
+import { FaEnvelope } from 'react-icons/fa'
 
-<p><em>
-studying <strong>electrical and computer engineering</strong> at <a href="https://www.uq.edu.au/">uq</a>, specializing in embedded systems.
-</em></p>
+export const Typing = ({ text }: { text: string }) => {
+  const [displayed, setDisplayed] = useState("")
+  useEffect(() => {
+    let i = 0
+    const interval = setInterval(() => {
+      setDisplayed(text.slice(0, i + 1))
+      i++
+      if (i === text.length) clearInterval(interval)
+    }, 75)
+    return () => clearInterval(interval)
+  }, [text])
+  return <span>{displayed}</span>
+}
+
+<h2>
+  hi, i'm ty <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3QwZ2ZqdWdrYnM0bGZnY2plajFxZ291cTh4Y2podmEyY3RsN2N1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5A4gz2QktOjs3nYq1U/giphy.gif" width="40" />
+</h2>
+
+<p>
+  <em>
+    studying <strong>electrical and computer engineering</strong> at{' '}
+    <a href="https://www.uq.edu.au/">uq</a>, specializing in embedded systems.
+  </em>
+</p>
 
 <h3><em>about me</em></h3>
-<p>🌱 in my final year of study</br>🔭 currently working on my thesis developing an operating system for a 4G phone </br>💼 currently employed as a product developer intern at <strong>focus professional services</strong> </p>
+<p>
+  🌱 <Typing text="in my final year of study" /><br />
+  🔭 <Typing text="currently working on my thesis developing an OS for a 4G phone" /><br />
+  💼 <Typing text="currently employed as a product developer intern at Focus Professional Services" />
+</p>
 
 <h3><em>things i code with</em></h3>
 
-<p>
-<img src="https://img.shields.io/badge/RTOS-Zephyr-informational?style=for-the-badge&logo=zephyrproject&logoColor=white&color=761EDB" alt="Zephyr">
-<img src="https://img.shields.io/badge/Code-VHDL-informational?style=for-the-badge&logo=vhdl&logoColor=white&color=9452A5" alt="VHDL">
-<img src="https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=336791" alt="SQL">
-<img src="https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=00599C" alt="C">
-<img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C" alt="C++">
-<img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python">
-<img src="https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript">
-<img src="https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS">
-<img src="https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/RTOS-FreeRTOS-informational?style=for-the-badge&logo=freertos&logoColor=white&color=008000" alt="FreeRTOS">
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML">
-<img src="https://img.shields.io/badge/Framework-Expo-informational?style=for-the-badge&logo=expo&logoColor=white&color=000000" alt="Expo">
-</p>
+<div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem' }}>
+  {[
+    ['RTOS-Zephyr', 'zephyrproject', '#761EDB'],
+    ['Code-VHDL', 'vhdl', '#9452A5'],
+    ['Code-SQL', 'postgresql', '#336791'],
+    ['Code-C', 'c', '#00599C'],
+    ['Code-C++', 'c++', '#00599C'],
+    ['Code-Python', 'python', '#3776AB'],
+    ['Code-TypeScript', 'typescript', '#3178C6'],
+    ['Code-CSS', 'css3', '#1572B6'],
+    ['Code-React', 'react', '#61DAFB'],
+    ['RTOS-FreeRTOS', 'freertos', '#008000'],
+    ['Code-JavaScript', 'javascript', '#F7DF1E'],
+    ['Code-HTML', 'html5', '#E34F26'],
+    ['Framework-Expo', 'expo', '#000000'],
+  ].map(([label, logo, color]) => (
+    <img
+      key={label}
+      src={`https://img.shields.io/badge/${label}-informational?style=for-the-badge&logo=${logo}&logoColor=white&color=${color.replace("#", "")}`}
+      alt={label}
+    />
+  ))}
+</div>
 
 <h3>📬<em> reach me</em></h3>
 <p>
-  <a href="mailto:tyjbehnke@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tyjbehnke@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Gmail">
+  <a href="mailto:tyjbehnke@gmail.com" style={{ textDecoration: 'none' }}>
+    <img
+      src="https://img.shields.io/badge/Email-tyjbehnke@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D14836"
+      alt="Gmail"
+    />{' '}
   </a>
 </p>
