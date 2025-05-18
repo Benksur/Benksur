@@ -12,7 +12,6 @@
 - product developer intern @ **Focus Professional Services**
 
 
-
 ### currently learning
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB" />
