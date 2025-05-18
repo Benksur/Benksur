@@ -23,9 +23,9 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Zephyr-informational?style=for-the-badge&logo=zephyrproject&logoColor=white&color=761EDB" alt="Zephyr" />
-  <img src="https://img.shields.io/badge/VHDL-informational?style=for-the-badge&logo=vhdl&logoColor=white&color=9452A5" alt="VHDL" />
-  <img src="https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=336791" alt="SQL" />
-  <img src="https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=white&color=00599C" alt="C" />
+  <img src="https://img.shields.io/badge/VHDL-informational?style=for-the-badge&logo=vhdl&logoColor=white&color=571edb" alt="VHDL" />
+  <img src="https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=031a8f" alt="SQL" />
+  <img src="https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=white&color=03478f" alt="C" />
   <img src="https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript" />
