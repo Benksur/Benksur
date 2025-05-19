@@ -15,7 +15,6 @@
 ### currently learning
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=336791" alt="PostgreSQL" />
 </p>
 
 ### things i code with
@@ -23,10 +22,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Zephyr-informational?style=for-the-badge&logo=zephyrproject&logoColor=white&color=761EDB" alt="Zephyr" />
   <img src="https://img.shields.io/badge/VHDL-informational?style=for-the-badge&logo=vhdl&logoColor=white&color=571edb" alt="VHDL" />
-  <img src="https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=031a8f" alt="SQL" />
   <img src="https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=white&color=03478f" alt="C" />
   <img src="https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=336791" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS" />
   <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=26abd4" alt="React" />
