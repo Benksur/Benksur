@@ -15,6 +15,7 @@
 ### currently learning
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/C%23-informational?style=for-the-badge&logo=cshrp&logoColor=white&color=58208c" alt="C#" />
 </p>
 
 ### things i code with
@@ -29,7 +30,7 @@
   <img src="https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS" />
   <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=26abd4" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=freertos&logoColor=white&color=79a832" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=79a832" alt="Node.js" />
   <img src="https://img.shields.io/badge/FreeRTOS-informational?style=for-the-badge&logo=freertos&logoColor=white&color=008000" alt="FreeRTOS" />
   <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML" />
