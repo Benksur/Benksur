@@ -15,13 +15,13 @@
 ### currently learning
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/C%23-informational?style=for-the-badge&logo=cshrp&logoColor=white&color=58208c" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=58208c" alt="C#" />
 </p>
 
 ### things i code with
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Zephyr-informational?style=for-the-badge&logo=zephyrproject&logoColor=white&color=761EDB" alt="Zephyr" />
+  <img src="https://img.shields.io/badge/Zephyr-informational?style=for-the-badge&logo=zephyr&logoColor=white&color=761EDB" alt="Zephyr" />
   <img src="https://img.shields.io/badge/VHDL-informational?style=for-the-badge&logo=vhdl&logoColor=white&color=571edb" alt="VHDL" />
   <img src="https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=white&color=03478f" alt="C" />
   <img src="https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C" alt="C++" />
