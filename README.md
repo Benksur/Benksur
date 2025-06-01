@@ -16,6 +16,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/C%23-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=58208c" alt="C#" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL Badge">
+
 </p>
 
 ### things i code with
