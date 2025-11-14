@@ -15,10 +15,6 @@
 ### currently learning
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=58208c" alt="C#" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL Badge">
-  <img src="https://img.shields.io/badge/Neo4j-informational?style=for-the-badge&logo=neo4j&logoColor=white&color=008CC1" alt="Neo4j" />
-
-
 </p>
 
 ### things i code with
