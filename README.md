@@ -6,7 +6,7 @@
 > _studying **electrical and computer engineering** at [uq](https://www.uq.edu.au/), specializing in embedded systems._
 
 ### about me
-- 22 years old 
+- 23 years old 
 - final year ECE student  
 - developing an operating system for a 4G phone (thesis)  
 - product developer intern @ **Focus Professional Services**
