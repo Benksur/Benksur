@@ -45,7 +45,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benksur&layout=compact&hide_title=1&card_width=300%22%20alt=%22Top%20language%20used%20in%20my%20repos" />
   <br />
-</div>
+</div> -->
