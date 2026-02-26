@@ -22,11 +22,13 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" />
   <img src="https://cdn.simpleicons.org/expo/000000" height="40" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" width="52" alt="embeddedc logo"  />
+  
 </p>
 
 
@@ -39,6 +41,10 @@
   &nbsp;&nbsp;
   <a href="https://discord.com/users/benksur" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tybehnke" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40" />
   </a>
 </p>
 
