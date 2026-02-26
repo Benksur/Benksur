@@ -9,16 +9,12 @@
 - bachelor in electrical engineering, computer engineering major
 
 
-### currently learning
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=58208c" alt="C#" />
-</p>
-
-### things i code with
+### codes with
 
 <p align="left">
   <img src="https://img.shields.io/badge/Zephyr-informational?style=for-the-badge&logo=zephyr&logoColor=white&color=761EDB" alt="Zephyr" />
   <img src="https://img.shields.io/badge/VHDL-informational?style=for-the-badge&logo=vhdl&logoColor=white&color=571edb" alt="VHDL" />
+  <img src="https://img.shields.io/badge/C%23-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=4d18e7" alt="C#" />
   <img src="https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=white&color=03478f" alt="C" />
   <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=336791" alt="PostgreSQL" />
