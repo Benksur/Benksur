@@ -9,25 +9,24 @@
 - bachelor in electrical engineering, computer engineering major
 
 
-### codes with
+### tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Zephyr-informational?style=for-the-badge&logo=zephyr&logoColor=white&color=761EDB" alt="Zephyr" />
-  <img src="https://img.shields.io/badge/VHDL-informational?style=for-the-badge&logo=vhdl&logoColor=white&color=571edb" alt="VHDL" />
-  <img src="https://img.shields.io/badge/C%23-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=4d18e7" alt="C#" />
-  <img src="https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=white&color=03478f" alt="C" />
-  <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=336791" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS" />
-  <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=26abd4" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=79a832" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/FreeRTOS-informational?style=for-the-badge&logo=freertos&logoColor=white&color=008000" alt="FreeRTOS" />
-  <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML" />
-  <img src="https://img.shields.io/badge/Expo-informational?style=for-the-badge&logo=expo&logoColor=white&color=000000" alt="Expo" />
-  <img src="https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=next.js&logoColor=white&color=000000" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://cdn.simpleicons.org/c/03478F" height="40" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" height="40" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="arduino logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" />
+  <img src="https://cdn.simpleicons.org/expo/000000" height="40" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" width="52" alt="embeddedc logo"  />
 </p>
 
 
@@ -35,13 +34,13 @@
 
 <p>
   <a href="mailto:tyjbehnke@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tyjbehnke@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Email Badge" />
+    <img src="https://cdn.simpleicons.org/gmail" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/benksur" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" />
   </a>
 </p>
 
 ---
 
-<!-- <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benksur&layout=compact&hide_title=1&card_width=300%22%20alt=%22Top%20language%20used%20in%20my%20repos" />
-  <br />
-</div> -->
