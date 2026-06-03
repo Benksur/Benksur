@@ -5,7 +5,7 @@
 
 ### about me
 - 23 years old 
-- product developer @ **Focus Professional Services**
+- software engineer @ **ZeroFlucs**
 - bachelor in electrical engineering, computer engineering major
 
 
@@ -17,14 +17,12 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" />
   <img src="https://cdn.simpleicons.org/postgresql/336791" height="40" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="arduino logo"  />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" />
-  <img src="https://cdn.simpleicons.org/expo/000000" height="40" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" width="52" alt="embeddedc logo"  />
